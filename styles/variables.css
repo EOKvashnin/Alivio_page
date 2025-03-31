@@ -1,0 +1,10 @@
+:root {
+	--color-white: #fff;
+	--main-green: #028760;
+	--main-dark-green: #245852;
+	--main-black: #000000;
+	--text-color: #484848;
+	--main-opacity: 0.2;
+}
+
+/* media breakpoints: 992px, 768px, 576px, 480px */
