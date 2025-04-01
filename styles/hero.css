@@ -1,5 +1,5 @@
 .hero {
-	background: url('/assets/webp/header-bg.webp') center/ cover no-repeat;
+	background: url('../assets/webp/header-bg.webp') center/ cover no-repeat;
 	height: 890px;
 	width: 100%;
 }
